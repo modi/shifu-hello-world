@@ -1,0 +1,14 @@
+{
+    "name": "shifu/hello-world",
+    "description": "shifu/hello-world",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mo Di",
+            "email": "e40dff@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
